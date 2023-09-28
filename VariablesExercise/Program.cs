@@ -14,7 +14,7 @@
 
             double jadePrice = 5.6;
 
-            decimal rubyPrice = 4.3m;
+            decimal rubyPrice = 3.3m;
 
             Console.WriteLine($"{name} had {number} valuable stones. The exact price of the jade stones he had was {jadePrice} million.");
 
