@@ -16,7 +16,7 @@
 
             decimal rubyPrice = 4.3m;
 
-            Console.WriteLine($"{name} had {number} valuable stones. The exact price of the jade he had was {jadePrice} million.");
+            Console.WriteLine($"{name} had {number} valuable stones. The exact price of the jade stones he had was {jadePrice} million.");
 
         }
     }
